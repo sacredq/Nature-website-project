@@ -1,0 +1,83 @@
+html, 
+body{
+    margin: 0; height: 100%;    
+    font-size: 18px;
+    line-height: 1.8em;
+    color: white;
+}
+
+.section1{
+    background-image: url(https://github.com/anshuopinion/10-Practice-Project-Html-CSS/blob/deploy-projects/Project%203/images/image1.png?raw=true);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover; background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.section2{
+    background-image: url(https://github.com/anshuopinion/10-Practice-Project-Html-CSS/blob/deploy-projects/Project%203/images/image2.png?raw=true);
+    min-height: 400px;
+    position: relative; background-repeat: no-repeat;
+    background-position: center; background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+.section3{
+    background-image: url(https://github.com/anshuopinion/10-Practice-Project-Html-CSS/blob/deploy-projects/Project%203/images/image3.png?raw=true);
+    min-height: 400px;
+    position: relative;
+    background-position: center;
+    background-size: cover; background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.text_field{
+    position: absolute;
+    top: 50%; 
+    width: 100%;
+    text-align: center;
+    letter-spacing: 8px;
+    font-size: 27px; font-weight: 400;
+    text-transform: uppercase;
+}
+
+.field{
+    background: #313534;
+    padding: 20px;
+    width: 300px;
+    
+}
+
+.section {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.text_sec1{
+    background-color: white; color: #666;
+    text-align: center; font-size: 20px; padding: 25px;
+    
+}
+
+
+.text_sec2{
+    padding: 25px;
+    background-color: #282e34; color: white;
+    text-align: center;
+}
+
+.text_sec1 h1,
+.text_sec1 h2,
+.text_sec1 h3,
+.text_sec1 p,
+.text_sec2 h1,
+.text_sec2 h2,
+.text_sec2 h3,
+.text_sec2 p {
+    margin: 0;
+    padding: 0;
+}
